@@ -1,0 +1,19 @@
+{
+  "name": "mqtt2mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulisses85/mqtt2MongoDB.git"
+  },
+  "author": "Luaksz Kuligowski (https://github.com/Ulisses85)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulisses85/mqtt2MongoDB/issues"
+  },
+  "homepage": "https://github.com/Ulisses85/mqtt2MongoDB#readme"
+}
